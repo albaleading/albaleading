@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on develop my own project
+- 🌱 I’m currently improving my knowledge and skills
+- ⚡ Fun fact: Before this I didn't want to study anything related to computers or numbers. And here I am
+ 
+
+
 <!--
 **albaleading/albaleading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
