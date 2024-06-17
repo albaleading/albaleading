@@ -1,6 +1,10 @@
 ## Nice to meet you! 
 
+<p align="center">
+	<a href="www.linkedin.com/in/albagquiroga"><img src="https://www.flaticon.es/icono-gratis/linkedin_3938061?term=linkedin&page=1&position=9&origin=search&related_id=3938061" alt="Curriculum Vitae"></a>
+	
 
+</p>
 
 - 🔭 I’m currently working on develop my own project
 - 🌱 I’m currently improving my knowledge and skills
