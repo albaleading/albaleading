@@ -1,9 +1,6 @@
 ## Nice to meet you! 
 
-<p align="center">
-	<a href=<""><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-	<a href="www.linkedin.com/in/albagquiroga"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-</p>
+
 
 - 🔭 I’m currently working on develop my own project
 - 🌱 I’m currently improving my knowledge and skills
